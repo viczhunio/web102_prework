@@ -132,6 +132,11 @@ button {
     box-shadow: 0 0 10px lightblue; 
 }
     
+@keyframes pulse {
+    0% { box-shadow: 0 0 10px lightblue; }
+    50% { box-shadow: 0 0 30px lightblue; }
+    100% { box-shadow: 0 0 10px lightblue; }
+}
 #description-container {
     background-color: rgba(137, 192, 211, 0.97);
     padding: 2%;
