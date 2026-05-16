@@ -38,7 +38,7 @@ Some challenges include learning how to use reduce() and filter() to manipulate 
 
 ## License
 
-    Copyright [2026] [Victoria ZHunio]
+    Copyright [2026] [Victoria Zhunio]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
