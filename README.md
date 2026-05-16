@@ -27,7 +27,7 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-<img src='https://i.imgur.com/vJWFY4J.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://github.com/user-attachments/assets/e1ecbe0e-fa63-491c-9b44-736ebb1f35e0' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with Clipchamp and ezgif  
